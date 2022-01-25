@@ -1,7 +1,7 @@
 1. EYE EXERCISE
 2. THis app allows you to move your cursor around the screen, and the pupils of the eyes will follow the cursor. On mobile, you can simply double-click anywhere on the screen and the pupils will "look" that direction. 
 How to run: all you need to do to run this program is follow this link:
-[https://zacharyeisen.github.io/bus/](https://zacharyeisen.github.io/bus/)
+[https://zacharyeisen.github.io/eyes/](https://zacharyeisen.github.io/eyes/)
 
 1. Roadmap of future improvements: I would like to make a background for the app of a face, which the eyes will sit in.
 2. This is licensed under the MIT license, which is as follows:
